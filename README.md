@@ -1,4 +1,4 @@
-# Image-Based Drink Classification Using a Convolutional Neural Network
+# Image Based Soft Drink Classification Using a Convolutional Neural Network
 
 ## Overview
 This project implements an image classification system that identifies different
@@ -43,5 +43,7 @@ with high confidence predictions during live demonstrations.
 4. Run the live image prediction cells
 
 ## Author
+Charles W.
 Bachelor of Science in Data Science  
 Neural Networks Unit
+
